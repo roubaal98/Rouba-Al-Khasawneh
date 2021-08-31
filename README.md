@@ -1,6 +1,6 @@
 # Professional Biography 
 
-# **Rouba Al-Khasawneh**
+## **Rouba Al-Khasawneh**
 Email: alkhasrr@mail.uc.edu
 
 ## **Co-op or other experience and responsibilities**
