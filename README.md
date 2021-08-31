@@ -1,7 +1,7 @@
 # practice
-##**Rouba Al-Khasawneh**
+## **Rouba Al-Khasawneh**
 
-#**Co-op or other experience and responsibilities**
+# **Co-op or other experience and responsibilities**
 
 	__*Software Developer, London Computer Systems, Mason, Ohio. (2 Semesters):__
 		*work
@@ -12,7 +12,7 @@
 		*work
 		*work
 
-#**Skills/expertise areas**
+# **Skills/expertise areas**
 
 	*work
 	*work
@@ -21,7 +21,7 @@
 	*work
 	*work
 
-#**Areas of interest**
+# **Areas of interest**
 	
 	*work
 	*work
@@ -30,7 +30,7 @@
 	*work
 	*work
 
-#**Type of project sought**
+# **Type of project sought**
 	
 	*work
 	*work
