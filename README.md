@@ -1,4 +1,5 @@
 # **Rouba Al-Khasawneh**
+Email: alkhasrr@mail.uc.edu
 
 ## **Co-op or other experience and responsibilities**
 
@@ -10,14 +11,16 @@
 	* work
 	* work
 	* work
+
 ## **Skills/expertise areas**
-* work
-* work
-* work
+* Programming: C#, C++, Python
+* Web Development: HTML
+* Operating Systems: Mac, Windows, Linux
+
 ## **Areas of interest**
-* work
-* work
-* work
+* Software Development
+* Web development
+* Data Analytics
 
 ## **Type of project sought**
 * work
