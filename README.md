@@ -9,8 +9,9 @@ Email: alkhasrr@mail.uc.edu
 	* Analyzed, designed, tested, and implemented applications and databases with other teams and developers
 
 * **Software Quality Assurance Tester, London Computer Systems, Mason, Ohio. (1 Semester):**
-	* Preformed quality control and meeting requirements to assure precision of the work done by developers
+	* Preformed quality control on meeting requirements to assure precision of the work done by developers
 	* Presented process-oriented and preventative work to developers
+	* Discovered and documented any defects found while testing
 
 ## **Skills/expertise areas**
 * Programming: C#, C++, Python
@@ -23,6 +24,6 @@ Email: alkhasrr@mail.uc.edu
 * Data Analytics
 
 ## **Type of project sought**
-* work
-* work
-* work	
+* IOS app development of a game
+* Face detection
+* Search engine	
