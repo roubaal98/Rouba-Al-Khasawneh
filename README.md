@@ -3,7 +3,7 @@
 ## **Rouba Al-Khasawneh**
 Email: alkhasrr@mail.uc.edu
 
-## **Co-op or other experience and responsibilities**
+# **Co-op or other experience and responsibilities**
 
 * **Software Developer, London Computer Systems, Mason, Ohio. (2 Semesters):**
 	* Implemented web application development using GUI design
@@ -15,17 +15,17 @@ Email: alkhasrr@mail.uc.edu
 	* Presented process-oriented and preventative work to developers
 	* Discovered and documented any defects found while testing
 
-## **Skills/expertise areas**
+# **Skills/expertise areas**
 * Programming: C#, C++, Python
 * Web Development: HTML
 * Operating Systems: Mac, Windows, Linux
 
-## **Areas of interest**
+# **Areas of interest**
 * Software Development
 * Web development
 * Data Analytics
 
-## **Type of project sought**
+# **Type of project sought**
 * IOS app development of a game
 * Face detection
 * Search engine	
